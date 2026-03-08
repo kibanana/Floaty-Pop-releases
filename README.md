@@ -29,8 +29,7 @@
 | macOS (Apple Silicon) | [`Floaty-0.4.0-mac.dmg`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-arm64-mac.zip) |
 | Windows (x64) | [`Floaty-0.4.0-win.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-portable.exe) |
 
-> **Note**: This app is not code-signed. First-time launch requires bypassing security warnings.
-> See the **[Installation Guide](docs/installation-guide.md)** for step-by-step instructions.
+> **Note**: This app is not code-signed. **macOS**: right-click the app → Open to bypass Gatekeeper. **Windows**: click "More info" → "Run anyway".
 
 ## What's New in v0.4.0
 
@@ -43,8 +42,8 @@
 ## Quick Start
 
 1. Download the file for your platform above
-2. **macOS**: Open `.dmg`, drag to Applications, [bypass Gatekeeper](docs/installation-guide.md#macos-보안-경고-해결-중요)
-3. **Windows**: Run `.exe`, [bypass SmartScreen](docs/installation-guide.md#windows-smartscreen-경고-해결-중요)
+2. **macOS**: Open `.dmg`, drag to Applications
+3. **Windows**: Run `.exe` installer or use portable version directly
 4. Right-click the widget for settings (theme, color, analytics)
 
 ## Privacy
