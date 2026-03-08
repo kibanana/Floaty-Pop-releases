@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="120" alt="Floaty icon" />
+  <img src="icon.png" width="100" alt="Floaty icon" />
 </p>
 
 <h1 align="center">Floaty</h1>
@@ -12,81 +12,47 @@
 <p align="center">
   <a href="https://github.com/kibanana/Floaty-releases/releases/latest"><img src="https://img.shields.io/github/v/release/kibanana/Floaty-releases?style=flat-square&color=fceb7a&labelColor=0a0a0a" alt="Release" /></a>
   <img src="https://img.shields.io/badge/platform-macOS%20·%20Windows-fceb7a?style=flat-square&labelColor=0a0a0a" alt="Platform" />
-  <img src="https://img.shields.io/badge/language-EN%20·%20KO%20·%20JA%20·%20ZH-fceb7a?style=flat-square&labelColor=0a0a0a" alt="Languages" />
 </p>
 
 <p align="center">
-  <a href="https://kibanana.github.io/Floaty-landing-page/">Website</a> ·
-  <a href="https://github.com/kibanana/Floaty-releases/releases/latest">Download</a> ·
-  <a href="#features">Features</a> ·
-  <a href="docs/installation-guide.md">Installation Guide</a>
+  <a href="https://kibanana.github.io/Floaty-landing-page/">Features & Screenshots →</a>
 </p>
 
 ---
 
 ## Download
 
-| Platform | File | Architecture |
-|----------|------|--------------|
-| macOS | [`Floaty-0.3.1-mac.dmg`](https://github.com/kibanana/Floaty-releases/releases/download/v0.3.1/Floaty-0.3.1-mac.dmg) | Apple Silicon |
-| macOS | [`Floaty-0.3.1-arm64-mac.zip`](https://github.com/kibanana/Floaty-releases/releases/download/v0.3.1/Floaty-0.3.1-arm64-mac.zip) | Apple Silicon |
-| Windows | [`Floaty-0.3.1-win.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.3.1/Floaty-0.3.1-win.exe) | x64 |
-| Windows | [`Floaty-0.3.1-portable.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.3.1/Floaty-0.3.1-portable.exe) | x64 (portable) |
+### Latest: v0.4.0
 
-> This app is not code-signed. See the [installation guide](docs/installation-guide.md) for bypassing macOS Gatekeeper or Windows SmartScreen warnings.
+| Platform | Installer | Portable |
+|----------|-----------|----------|
+| macOS (Apple Silicon) | [`Floaty-0.4.0-mac.dmg`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-arm64-mac.zip) |
+| Windows (x64) | [`Floaty-0.4.0-win.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-portable.exe) |
 
-## Features
+> **Note**: This app is not code-signed. First-time launch requires bypassing security warnings.
+> See the **[Installation Guide](docs/installation-guide.md)** for step-by-step instructions.
 
-**Always on Top** — Stays above every window. Transparent, frameless, draggable widget that lives in your workspace without cluttering the dock or taskbar.
+## What's New in v0.4.0
 
-**Stay on Track** — Set a focus goal and keep it visible on screen. Three display modes: text emphasis, time emphasis, or text only.
+- Analytics integration with opt-out support (right-click menu)
+- Multi-language onboarding (EN, KO, JA, ZH)
+- Improved bubble animation
 
-**Pomodoro Timer** — Quick presets (3, 15, 25, 60 min) or custom duration slider. 25-minute focus + 5-minute break cycles for optimal productivity.
+[All releases →](https://github.com/kibanana/Floaty-releases/releases)
 
-**3 Display Modes** — Full, compact, and mini. Drag any edge to resize between 200px and 500px while maintaining a perfect 1:1 square.
+## Quick Start
 
-**Dark & Light Theme** — System, dark, and light themes via right-click menu. Lemon gold or monochrome accent colors. All applied instantly.
+1. Download the file for your platform above
+2. **macOS**: Open `.dmg`, drag to Applications, [bypass Gatekeeper](docs/installation-guide.md#macos-보안-경고-해결-중요)
+3. **Windows**: Run `.exe`, [bypass SmartScreen](docs/installation-guide.md#windows-smartscreen-경고-해결-중요)
+4. Right-click the widget for settings (theme, color, analytics)
 
-**Bell Sound** — Desktop notification and two-tone bell sound when the timer ends.
+## Privacy
 
-**Multi-Language** — Onboarding guide in English, Korean, Japanese, and Chinese.
-
-## Tech Stack
-
-| | Technology |
-|-|-----------|
-| Framework | Electron 33 |
-| UI | React 19 + TypeScript |
-| Build | electron-vite |
-| Styling | CSS Custom Properties |
-| Packaging | electron-builder |
-
-## Usage
-
-### Start a Timer
-
-1. Click the widget to open setup
-2. Select a preset or drag the slider
-3. Optionally enter a focus goal (e.g., "Write intro")
-4. Click **Start** or press Enter
-
-### Controls
-
-| Action | How |
-|--------|-----|
-| Pause / Resume | Play/pause button or right-click menu |
-| Stop | Stop button or right-click menu |
-| Switch display | Click the mode icon to cycle views |
-| Resize | Drag any edge (200-500px) |
-| Move | Drag the top bar |
-| Theme / Color | Right-click context menu |
-
-### On Completion
-
-Timer shows "DONE" with a desktop notification and bell sound. Click to reset.
+Floaty collects anonymous usage analytics (app open, timer usage) to improve the product. **No personal data is collected.** You can disable analytics anytime: right-click → uncheck **Analytics**.
 
 ---
 
 <p align="center">
-  Made by <a href="https://github.com/kibanana">kibanana</a>
+  <a href="https://kibanana.github.io/Floaty-landing-page/">Website</a> · <a href="https://github.com/kibanana/Floaty-releases/issues">Report a Bug</a> · Made by <a href="https://github.com/kibanana">kibanana</a>
 </p>
