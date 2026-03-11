@@ -21,20 +21,19 @@
 
 ## Download
 
-### Latest: v0.4.0
+### Latest: v0.4.4
 
 | Platform | Installer | Portable |
 |----------|-----------|----------|
-| macOS (Apple Silicon) | [`Floaty-0.4.0-mac.dmg`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-arm64-mac.zip) |
-| Windows (x64) | [`Floaty-0.4.0-win.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.0/Floaty-0.4.0-portable.exe) |
+| macOS (Apple Silicon) | [`Floaty-0.4.4-mac.dmg`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.4/Floaty-0.4.4-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.4/Floaty-0.4.4-arm64-mac.zip) |
+| Windows (x64) | [`Floaty-0.4.4-win.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.4/Floaty-0.4.4-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.4/Floaty-0.4.4-portable.exe) |
 
 > **Note**: This app is not code-signed. **macOS**: right-click the app → Open to bypass Gatekeeper. **Windows**: click "More info" → "Run anyway".
 
-## What's New in v0.4.0
+## What's New in v0.4.4
 
-- Analytics integration with opt-out support (right-click menu)
-- Multi-language onboarding (EN, KO, JA, ZH)
-- Improved bubble animation
+- Replaced Unicode control characters with SVG icons for Windows compatibility
+- Play, Pause, Stop, and Stopwatch buttons now render correctly on all platforms
 
 [All releases →](https://github.com/kibanana/Floaty-releases/releases)
 
