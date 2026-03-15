@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kibanana.github.io/Floaty-landing-page/">Features & Screenshots →</a>
+  <a href="https://floaty-desktop-app.vercel.app/">Features & Screenshots →</a>
 </p>
 
 ---
@@ -55,5 +55,5 @@ Yes. Floaty is free and open-source under the MIT License.
 ---
 
 <p align="center">
-  <a href="https://kibanana.github.io/Floaty-landing-page/">Website</a> · <a href="https://github.com/kibanana/Floaty-releases/issues">Report a Bug</a> · Made by <a href="https://github.com/kibanana">kibanana</a>
+  <a href="https://floaty-desktop-app.vercel.app/">Website</a> · <a href="https://github.com/kibanana/Floaty-releases/issues">Report a Bug</a> · Made by <a href="https://github.com/kibanana">kibanana</a>
 </p>
