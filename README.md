@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/platform-macOS%20·%20Windows-fceb7a?style=flat-square&labelColor=0a0a0a" alt="Platform" />
 </p>
 
-<p align="center">
-  <a href="https://floaty-desktop-app.vercel.app/">Features & Screenshots →</a>
-</p>
-
 ---
 
 ## What is Floaty?
