@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="icon.png" width="100" alt="Floaty icon" />
+  <img src="icon.png" width="100" alt="Floaty Pop icon" />
 </p>
 
-<h1 align="center">Floaty</h1>
+<h1 align="center">Floaty Pop</h1>
 
 <p align="center">
   <strong>A tiny focus timer that floats above everything.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kibanana/Floaty-releases/releases/latest"><img src="https://img.shields.io/github/v/release/kibanana/Floaty-releases?style=flat-square&color=fceb7a&labelColor=0a0a0a" alt="Release" /></a>
+  <a href="https://github.com/kibanana/Floaty-Pop-releases/releases/latest"><img src="https://img.shields.io/github/v/release/kibanana/Floaty-Pop-releases?style=flat-square&color=fceb7a&labelColor=0a0a0a" alt="Release" /></a>
   <img src="https://img.shields.io/badge/platform-macOS%20·%20Windows-fceb7a?style=flat-square&labelColor=0a0a0a" alt="Platform" />
 </p>
 
 ---
 
-## What is Floaty?
+## What is Floaty Pop?
 
 A small, always-on-top timer widget for your desktop. Set a focus duration, keep your task visible, and stay on track — without switching windows.
 
@@ -28,14 +28,14 @@ A small, always-on-top timer widget for your desktop. Set a focus duration, keep
 
 ## Download
 
-### Latest: v0.6.0
+### Latest: v0.7.0
 
 | Platform | Installer | Portable |
 |----------|-----------|----------|
-| macOS (Apple Silicon) | [`Floaty-0.6.0-mac.dmg`](https://github.com/kibanana/Floaty-releases/releases/download/v0.6.0/Floaty-0.6.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-releases/releases/download/v0.6.0/Floaty-0.6.0-arm64-mac.zip) |
-| Windows (x64) | [`Floaty-0.6.0-win.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.6.0/Floaty-0.6.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.6.0/Floaty-0.6.0-portable.exe) |
+| macOS (Apple Silicon) | [`FloatyPop-0.7.0-mac.dmg`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v0.7.0/FloatyPop-0.7.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v0.7.0/FloatyPop-0.7.0-arm64-mac.zip) |
+| Windows (x64) | [`FloatyPop-0.7.0-win.exe`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v0.7.0/FloatyPop-0.7.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v0.7.0/FloatyPop-0.7.0-portable.exe) |
 
-[All releases →](https://github.com/kibanana/Floaty-releases/releases)
+[All releases →](https://github.com/kibanana/Floaty-Pop-releases/releases)
 
 ## Quick Start
 
@@ -46,10 +46,10 @@ A small, always-on-top timer widget for your desktop. Set a focus duration, keep
 ## FAQ
 
 **Is it free?**
-Yes. Floaty is free and open-source under the MIT License.
+Yes. Floaty Pop is free and open-source under the MIT License.
 
 ---
 
 <p align="center">
-  <a href="https://floaty-desktop-app.vercel.app/">Website</a> · <a href="https://github.com/kibanana/Floaty-releases/issues">Report a Bug</a> · Made by <a href="https://github.com/kibanana">kibanana</a>
+  <a href="https://floaty-desktop-app.vercel.app/">Website</a> · <a href="https://github.com/kibanana/Floaty-Pop-releases/issues">Report a Bug</a> · Made by <a href="https://github.com/kibanana">kibanana</a>
 </p>
