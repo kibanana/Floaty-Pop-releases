@@ -5,7 +5,7 @@
 <h1 align="center">Floaty</h1>
 
 <p align="center">
-  <strong>The Pomodoro Timer That Stays on Top</strong><br/>
+  <strong>A tiny focus timer that floats above everything.</strong>
 </p>
 
 <p align="center">
@@ -19,34 +19,38 @@
 
 ---
 
+## What is Floaty?
+
+A small, always-on-top timer widget for your desktop. Set a focus duration, keep your task visible, and stay on track — without switching windows.
+
+- **Always on top** — never buried under other apps
+- **Flexible presets** — 3 min, 15 min, 25 min, 60 min, or set your own
+- **Display modes** — switch between time-focused and task-focused views
+- **Freely resizable** — drag to any size between 200 px and 500 px
+- **Themes** — dark, light, or match your system (right-click to switch)
+- **Completion alert** — bell sound + desktop notification when time's up
+
 ## Download
 
-### Latest: v0.4.4
+### Latest: v0.6.0
 
 | Platform | Installer | Portable |
 |----------|-----------|----------|
-| macOS (Apple Silicon) | [`Floaty-0.4.4-mac.dmg`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.4/Floaty-0.4.4-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.4/Floaty-0.4.4-arm64-mac.zip) |
-| Windows (x64) | [`Floaty-0.4.4-win.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.4/Floaty-0.4.4-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.4.4/Floaty-0.4.4-portable.exe) |
-
-> **Note**: This app is not code-signed. **macOS**: right-click the app → Open to bypass Gatekeeper. **Windows**: click "More info" → "Run anyway".
-
-## What's New in v0.4.4
-
-- Replaced Unicode control characters with SVG icons for Windows compatibility
-- Play, Pause, Stop, and Stopwatch buttons now render correctly on all platforms
+| macOS (Apple Silicon) | [`Floaty-0.6.0-mac.dmg`](https://github.com/kibanana/Floaty-releases/releases/download/v0.6.0/Floaty-0.6.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-releases/releases/download/v0.6.0/Floaty-0.6.0-arm64-mac.zip) |
+| Windows (x64) | [`Floaty-0.6.0-win.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.6.0/Floaty-0.6.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-releases/releases/download/v0.6.0/Floaty-0.6.0-portable.exe) |
 
 [All releases →](https://github.com/kibanana/Floaty-releases/releases)
 
 ## Quick Start
 
-1. Download the file for your platform above
-2. **macOS**: Open `.dmg`, drag to Applications
-3. **Windows**: Run `.exe` installer or use portable version directly
-4. Right-click the widget for settings (theme, color, analytics)
+1. Download and install for your platform above
+2. Set a duration, press start — it floats above everything
+3. Right-click for themes and display modes
 
-## Privacy
+## FAQ
 
-Floaty collects anonymous usage analytics (app open, timer usage) to improve the product. **No personal data is collected.** You can disable analytics anytime: right-click → uncheck **Analytics**.
+**Is it free?**
+Yes. Floaty is free and open-source under the MIT License.
 
 ---
 
