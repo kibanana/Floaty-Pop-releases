@@ -28,12 +28,12 @@ A small, always-on-top timer widget for your desktop. Set a focus duration, keep
 
 ## Download
 
-### Latest: v1.1.0
+### Latest: v1.2.0
 
 | Platform | Installer | Portable |
 |----------|-----------|----------|
-| macOS (Apple Silicon) | [`FloatyCircle-1.1.0-mac.dmg`](https://github.com/kibanana/Floaty-Circle-releases/releases/download/v1.1.0/FloatyCircle-1.1.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-Circle-releases/releases/download/v1.1.0/FloatyCircle-1.1.0-arm64-mac.zip) |
-| Windows (x64) | [`FloatyCircle-1.1.0-win.exe`](https://github.com/kibanana/Floaty-Circle-releases/releases/download/v1.1.0/FloatyCircle-1.1.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-Circle-releases/releases/download/v1.1.0/FloatyCircle-1.1.0-portable.exe) |
+| macOS (Apple Silicon) | [`FloatyCircle-1.2.0-mac.dmg`](https://github.com/kibanana/Floaty-Circle-releases/releases/download/v1.2.0/FloatyCircle-1.2.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-Circle-releases/releases/download/v1.2.0/FloatyCircle-1.2.0-arm64-mac.zip) |
+| Windows (x64) | [`FloatyCircle-1.2.0-win.exe`](https://github.com/kibanana/Floaty-Circle-releases/releases/download/v1.2.0/FloatyCircle-1.2.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-Circle-releases/releases/download/v1.2.0/FloatyCircle-1.2.0-portable.exe) |
 
 [All releases →](https://github.com/kibanana/Floaty-Circle-releases/releases)
 
